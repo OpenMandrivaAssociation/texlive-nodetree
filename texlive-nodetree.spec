@@ -1,6 +1,6 @@
 Name:		texlive-nodetree
 Version:	56742
-Release:	1
+Release:	2
 Summary:	Visualize node lists in a tree view
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nodetree
