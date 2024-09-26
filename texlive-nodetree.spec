@@ -1,5 +1,5 @@
 Name:		texlive-nodetree
-Version:	68244
+Version:	72318
 Release:	1
 Summary:	Visualize node lists in a tree view
 Group:		Publishing
