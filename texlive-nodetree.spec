@@ -3,7 +3,7 @@ Version:	72318
 Release:	1
 Summary:	Visualize node lists in a tree view
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/nodetree
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/nodetree
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nodetree.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/nodetree.doc.r%{version}.tar.xz
